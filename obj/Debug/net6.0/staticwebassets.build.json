@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ats3qneVSWpvPBCM9nFYf7evAFaIq8gqskHhRiYUcgg=",
+  "Source": "QuestDbPOC",
+  "BasePath": "_content/QuestDbPOC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
